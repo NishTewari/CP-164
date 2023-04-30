@@ -1,0 +1,21 @@
+T01
+
+
+
+
+
+
+
+
+T02 
+
+For 'miserables.txt':
+
+Comparing by order: ABCDEFGHIJKLMNOPQRSTUVWXYZ
+Total Comparisons: 31,762,167
+------------------------------
+Comparing by order: MFTCJPWADHKNRUYBEIGLOQSVXZ
+Total Comparisons: 8,854,330
+------------------------------
+Comparing by order: ETAOINSHRDLUCMPFYWGBVKJXZQ
+Total Comparisons: 8,208,847
